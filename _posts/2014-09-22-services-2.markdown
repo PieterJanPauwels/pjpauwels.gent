@@ -2,9 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Community management<br>is key for big 'I' innovation
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Disruptive innovation depends on timing, maturity of technology and many other aspects. But the important factor is the community. Bringing people together and listening to their ideas or issues makes for real innovation. And it's not only the [Wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) that matters, inviting others to join the innovation process and building together will create bigger impacts on society. 

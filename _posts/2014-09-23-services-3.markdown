@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Technology is here to stay<br>Let's use it for good.
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+[The semantic web](http://www.w3.org/standards/semanticweb/), [the internet of things](https://en.wikipedia.org/wiki/Internet_of_Things) and more technology shifts are just the beginning of an new era. We as innovators have the choice to use this technology to create new opportunities for the many... or the few. I keep track of new technologies and see how I share me experience with other people. 

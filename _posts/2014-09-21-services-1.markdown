@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Social innovation:<br>From money driven to impact driven
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Todays innovation need to keep societal changes in to account if they ever want to co-exist. Going from pure profit to social profit perspectives gives breathing room for new initiatives around the world. Companies do not live in a vacuum, everything has its place.
