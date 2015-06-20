@@ -5,4 +5,4 @@ category: Services
 title: Community management<br>is key for big 'I' innovation
 description: |
 ---
-  Disruptive innovation depends on timing, maturity of technology and many other aspects. But the important factor is the community. Bringing people together and listening to their ideas or issues makes for real innovation. And it's not only the [Wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) that matters, inviting others to join the innovation process and building together will create bigger impacts on society. 
+  Disruptive innovation depends on timing, maturity of technology and many other aspects. But the most important factor is the community. Bringing people together and listening to their ideas or issues enables real innovation. And it's not only the [Wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) that matters, inviting others to join the innovation process and building together on projects with communities will create a bigger impact on society. 

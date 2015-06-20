@@ -5,4 +5,4 @@ category: Services
 title: Technology is here to stay<br>Let's use it for good.
 description: |
 ---
-[The semantic web](http://www.w3.org/standards/semanticweb/), [the internet of things](https://en.wikipedia.org/wiki/Internet_of_Things) and more technology shifts are just the beginning of an new era. We as innovators have the choice to use this technology to create new opportunities for the many... or the few. I keep track of new technologies and see how I share me experience with other people. 
+[The semantic web](http://www.w3.org/standards/semanticweb/), [the internet of things](https://en.wikipedia.org/wiki/Internet_of_Things) and more technology shifts are just the beginning of an new era. We as innovators have the choice to use this technology to create new opportunities for the many... or the few.  
