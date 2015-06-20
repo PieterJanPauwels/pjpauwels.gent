@@ -4,9 +4,12 @@
 
 url: http://pjpauwels.gent
 title: PJPauwels
-email: hello@PJPauwels.gent
+email: pieterjanpauwels@gmail.com
 author: Pieter-Jan Pauwels
-description: I am a social worker with a heart for communication and a brain for technology. Trying to bring both aspects together in a sustainable way through the different open communities. If you have questions about open data and open knowledge, I’m always up for a coffee.
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,6 +27,6 @@ social:
   - title: twitter
     url: https://twitter.com/PJPauwels
   - title: github
-    url: https://github.com/PieterJanPauwels
+    url: https://github.com/PieterJanPauwels/landing-page-theme
   - title: linkedin
     url: https://www.linkedin.com/in/pjpauwels
