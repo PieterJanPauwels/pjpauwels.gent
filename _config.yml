@@ -7,9 +7,7 @@ title: PJPauwels
 email: pieterjanpauwels@gmail.com
 author: Pieter-Jan Pauwels
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+  Hi I’m Pieter-Jan, I’m a twenty something from Ghent who’s captured by the idea of social innovation and how we can all co-create a better future in the open space. I also like turtles.  
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,11 +22,12 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: mail
+  - title: email
+    logo: envelope
     url: mailto:hello@pjpauwels.gent
   - title: twitter
+    logo: twitter
     url: https://twitter.com/PJPauwels
-  - title: github
-    url: https://github.com/PieterJanPauwels/landing-page-theme
   - title: linkedin
+    logo: linkedin
     url: https://www.linkedin.com/in/pjpauwels
