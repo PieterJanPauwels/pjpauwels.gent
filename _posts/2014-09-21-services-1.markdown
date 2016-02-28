@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Social innovation:<br>From profit driven to impact driven
+title: <a href="http://datawijs.be/">Datawijs:</a><br>An Interactive video series on open data for young people
 description: |
 ---
-Innovation does not happen in an empty void. We need to keep societal changes into account if new ideas ever want to co-exist in our daily habitat. Deviating from pure profit to social profit gives breathing room for new initiatives around the world. 
+Open Data is such an intangible and relatively new concept that there is low awareness amongst citizens in Flanders. Together with Mediaraven we wanted to create a online tool to teach the new generation everything there is to know about and do with Open Data. During this project I was the project lead and content provider.  

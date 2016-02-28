@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Technology is here to stay<br>Let's use it for good.
+title: Open Knowledge events:<br><a href="http://2016.openbelgium.be/">Open Belgium</a> & <a href="summerofcode.be">open Summer of code</a>.
 description: |
 ---
-[The semantic web](http://www.w3.org/standards/semanticweb/), [the internet of things](https://en.wikipedia.org/wiki/Internet_of_Things) and other technology shifts are just the beginning of a new era. We as innovators have the choice to use technology to create new opportunities for the many... or the few. I choose the many. 
+As part of being an independent NPO we host commercially funded events that promote open data use and open source. Open Belgium is a community-driven conference gathering stakeholders from government, research, industries and the community itself. open Summer of code on the other hand is a four week Open Source innovation camp for students with a technical, communication of business background. I've been the lead organiser of three Open Belgium editions and two #oSoc editions. 
